@@ -43,5 +43,3 @@ The main sections of the code are as follows:
 - The model is evaluated using the mean squared error loss.
 - The predictions are scaled back to the original price range for better interpretation.
 - The code saves the trained model as 'keras_model.h5'.
-
-Please note that this is a simplified example and may not provide accurate predictions in real-world scenarios. Use it for educational purposes and experiment with different configurations and techniques to improve the results.
