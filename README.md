@@ -1,7 +1,7 @@
 
-# Stock Price Prediction using LSTM with Keras
+# Stock Price Trend Prediction using LSTM with Keras
 
-This project is a Python script that uses Long Short-Term Memory (LSTM) models implemented with Keras to predict the trends of Apple Inc. (AAPL) stock prices. It fetches historical stock data using the yfinance library and trains an LSTM model on the data to make future price predictions.
+This project is a Python script that uses Long Short-Term Memory (LSTM) model implemented with Keras to predict the trends of Apple Inc. (AAPL) stock prices. It fetches historical stock data using the yfinance library and trains an LSTM model on the data to make future price predictions.
 
 ## How to Run
 
